@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+type: software
+title: "Code for Optimal Algorithms for Fixed-Graph Multi-Attribution Privacy"
+authors:
+  - family-names: Arora
+    given-names: Raman
+  - family-names: Zhang
+    given-names: Kaibo
+preferred-citation:
+  type: conference-paper
+  title: "Optimal Algorithms for Fixed-Graph Multi-Attribution Privacy"
+  authors:
+    - family-names: Arora
+      given-names: Raman
+    - family-names: Zhang
+      given-names: Kaibo
+  collection-title: "Advances in Neural Information Processing Systems"
+  year: 2026

@@ -1,0 +1,11 @@
+# Local environment and Python caches
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Notebook checkpoints and generated walkthrough outputs
+.ipynb_checkpoints/
+_checkpoints/
+/notebook_outputs/
